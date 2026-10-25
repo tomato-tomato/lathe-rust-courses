@@ -1,0 +1,8 @@
+[submodule "tutorials"]
+	path = tutorials
+	url = git@github.com:tomato-tomato/rust-lathe-tutorials.git
+	branch = grep-search
+[submodule "code"]
+	path = code
+	url = git@github.com:tomato-tomato/rust-lathe-code.git
+	branch = grep-search
